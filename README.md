@@ -33,6 +33,14 @@ It provides a simple and user-friendly interface to explore datasets and create 
 1. Install required libraries:
 ```bash
 pip install -r requirements.txt
+```
+
+2. Run the application:
+```bash
+python main.py
+```
+
+---
 
 ## 📸 Preview
 
